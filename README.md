@@ -29,7 +29,7 @@ Experienced in modern JavaScript frameworks, component-driven UI development, an
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](//www.linkedin.com/in/jeevanand)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](//www.linkedin.com/in/jeevanand](https://www.linkedin.com/in/jeevanand-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/JEEVANAND2612)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:jeevasethil2612@gmail.com)
 
