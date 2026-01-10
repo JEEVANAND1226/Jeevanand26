@@ -1,53 +1,59 @@
 # Jeevanand26
 
-# 👋 Hi, I'm Baranidharan
+# 👋 Hi, I'm Jeevanand
 
-I'm currently working on  
-### **Large Language Models**
+I'm currently focused on  
+### **Front-End & Web Development**
 
 ---
 
 ## 💼 About Me
 
-Project Associate at **AIReX Lab – IISc Bangalore**, specializing in **Machine Learning & AI**.  
-Passionate about **GenAI, Data Pipelines, MLOps**, and **Open Source**.
+Front-End Developer passionate about building **intuitive, responsive, and user-friendly web interfaces**.  
+Experienced in modern JavaScript frameworks, component-driven UI development, and performance-optimized applications.
 
-🔹 Contributor to **SciREX** (Scientific Machine Learning Library)  
-🔹 Research in **Multimodal AI & Foundational Models**
+🔹 Strong foundation in **HTML, CSS, JavaScript**  
+🔹 Experience with **React, Next.js & Chakra UI**  
+🔹 Interested in **clean UI design & scalable frontend architecture**
 
 ---
 
 ## 🔬 Current Work
 
-- Foundational Models for **LLM & VLM**
-- Multi-Sensor Data Fusion (MSDF)
-- Research collaboration with **DRDO & IBM Granite**
+- Building responsive web applications using **React & Next.js**
+- Creating reusable UI components with **Chakra UI**
+- Improving performance and accessibility of web interfaces
+- Developing personal projects and portfolio applications
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/baranidharan27)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/JEEVANAND2612)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
 ---
 
-## 🧑‍💻 Experience
+## 🧑‍💻 Skills
 
-### **Project Associate | AIReX Lab – IISc**  
-📍 Bangalore | *Aug 2024 – Present*
-
-- Worked on clustering algorithms for signal processing
-- Built scalable ML data pipelines
-- Dockerized pipelines with commitlint enforcement
-- Contributor to **SciREX**
-- Fine-tuning **IBM Granite Model**
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **UI Libraries:** Chakra UI, Bootstrap
+- **Tools:** Git, GitHub, VS Code
+- **Others:** Responsive Design, Component-Based Architecture
 
 ---
 
-### **Intern | AIReX Lab – IISc**  
-📍 Bangalore | *Jun 2024 – Aug 2024*
+## 📌 Projects
 
-- Built **RAG models**
-- Worked on **multimodal architectures**
+- Portfolio Website using **Next.js & Chakra UI**
+- Inventory / ERP-style frontend application
+- Responsive dashboards and UI components
+
+---
+
+## 🚀 Goals
+
+- Grow as a **Front-End Engineer**
+- Build scalable, production-ready UI systems
+- Contribute to real-world web applications
