@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Jeevanand S S
 
-           Front-End Developer 
+I'm currently working as
+
+<h3 align="center" style="color:#14b8a6;">
+  Front-End Developer
+</h3>
+
+
+---
 
 Detail-oriented **Frontend Developer** with hands-on experience in building user-friendly and performance-optimized web applications.  
 Strong focus on **clean UI design, component-driven development**, and modern frontend architecture.
@@ -9,7 +16,6 @@ Strong focus on **clean UI design, component-driven development**, and modern fr
 - Strong foundation in **HTML, CSS, JavaScript**
 - Interested in **scalable frontend systems & clean UI/UX**
 
----
 
 ## 🌐 Connect with Me
 
