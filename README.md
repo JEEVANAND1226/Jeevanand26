@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Jeevanand S S
 
-I'm currently working as
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=300&lines=Front-End+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=300&lines=Front-End+Developer"
   />
 </p>
 
