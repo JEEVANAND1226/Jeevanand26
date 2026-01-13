@@ -2,7 +2,7 @@
 
 I'm currently working as
 
-<h3 align="center" style="color:#14b8a6;">
+<h3 align="center" style="color:teal.500;">
   Front-End Developer
 </h3>
 
