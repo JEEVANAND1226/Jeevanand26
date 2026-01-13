@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Jeevanand S S
 
-Front-End Developer passionate about building **intuitive, responsive, and scalable web applications** using modern frontend technologies.
-
----
-
-## 💼 About Me
+           Front-End Developer 
 
 Detail-oriented **Frontend Developer** with hands-on experience in building user-friendly and performance-optimized web applications.  
 Strong focus on **clean UI design, component-driven development**, and modern frontend architecture.
